@@ -13,7 +13,7 @@ Este proyecto es un ejemplo de una aplicación web desarrollada con React y conf
 
 Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
 
-1. Clona este repositorio: `git clone (https://github.com/jarodsmdev/pokeApi-React)`
+1. Clona este repositorio: `git clone https://github.com/jarodsmdev/pokeApi-React`
 2. Navega al directorio del proyecto: `cd pokeApi-React`
 3. Instala las dependencias: `npm install`
 
